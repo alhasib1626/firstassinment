@@ -1,0 +1,83 @@
+.first-image{
+    width: 100%;
+    height: auto;
+}
+.banner-text{
+    position:absolute;
+    width: 100%;
+    top: 50%;
+    text-align: center;
+    color: rgb(241, 238, 233);
+    font-size: 25px;
+    align-items: center;
+
+}
+#noor{
+    font-size: medium;
+    margin-bottom: 50px;
+    
+}
+.link-button{
+    color: white;
+    font-weight: 800;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 17px 35px;
+    border-radius: 6px;
+    margin-top: 50px;
+}
+.box{
+    position: relative;
+    width: 175px;
+    height: 80px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: gainsboro;
+    float: left;
+    border-radius: 10px;
+    color: gray;
+    align-items: center;
+    
+}
+.he{
+    text-align: center;
+}
+h1{
+    font-size:50px ;
+}
+.form{
+    display: flex;
+    margin-top: 50px;
+}
+.box :hover{
+    background-color: red;
+    
+}
+.plan{
+    margin-top: 10%;
+
+}
+.plan h1{
+    font-size: 52px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+#planp{
+    text-align: center;
+}
+.plan-name{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    
+}
+.plan .plan-name{
+    background: blanchedalmond;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 300px;
+    padding: 20px;
+    line-height: 20px;
+}
